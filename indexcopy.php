@@ -2,7 +2,7 @@
 $dogage = rand(1,20);
 $DogInHuman;
 
-
+// Hello
 echo $dogage, "<br>";
 
 if ($dogage <= 2){
