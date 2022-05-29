@@ -5,7 +5,6 @@ $DogInHuman;
 // Hello
 // Hello!
 <<<<<<< HEAD
-// Hello Test!
 =======
 // Hello!!
 >>>>>>> 74a9d9013f1263019cc77b78f1da5079dc705b44
